@@ -1,0 +1,33 @@
+version 2
+run Net10_4-0-20190603-17:26:41-2124
+attr configname Net10_4
+attr datetime 20190603-17:26:41
+attr experiment Net10_4
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network mogps.networks.Net10_4
+attr processid 2124
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param **.eventStorage.packetLength "1024 byte"
+param **.node[*].operator[*].packetLength "1024 byte"
+
+vector 0 Net10_4.eventStorage "End-to-End Delay" ETV
+0	163	5	0
+0	164	5	0
+0	165	5	0
+0	166	5	0
+0	167	5	0
+0	168	5	0
+0	169	5	0
+0	170	5	0
+0	171	5	0
+0	172	5	0
+0	173	5	0
+0	174	5	0
+

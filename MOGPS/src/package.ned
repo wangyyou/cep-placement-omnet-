@@ -1,0 +1,3 @@
+package mogps;
+
+@license(LGPL);
